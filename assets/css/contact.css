@@ -20,3 +20,7 @@ body {
     font-size: 20px;
     margin:30px;
 }
+
+#name {
+    font-family: Brush Script MT, Brush Script Std, cursive
+}

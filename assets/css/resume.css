@@ -12,3 +12,7 @@ body {
     width:100%;
     padding-bottom:5px;
 }
+
+#name {
+    font-family: Brush Script MT, Brush Script Std, cursive
+}
