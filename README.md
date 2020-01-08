@@ -1,7 +1,7 @@
-# Updated-Portfolio
+# Portfolio
 
-This is the latest version of my portfolio. This includes my contact information as well as GitHub and LinkedIn profiles. The portfolio index has my updated projects and assignments connected with their GitHub Pages.
+Welcome to my portfolio, made simply with HTML and CSS! Some of my projects and assignments are exhibited in the portfolio index.
 
 
 ## Links
-* https://jamieluong03.github.io/Updated-Portfolio/
+* https://jamieluong03.github.io/Portfolio/
