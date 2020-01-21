@@ -2,7 +2,7 @@
 
 Welcome to my portfolio, made simply with HTML and CSS! Some of my projects and assignments are exhibited in the portfolio index.
 
-![Portfolio Screenshot](assets/images/portfolio.png)
+<img src="assets/images/portfolio.png" width=500>
 
 ## Links
 * https://jamieluong03.github.io/Portfolio/
